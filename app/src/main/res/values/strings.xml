@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoleFromHole</string>
+
+    <array name="list_animation">
+        <item>mole_one</item>
+        <item>mole_two</item>
+        <item>mole_three</item>
+        <item>mole_six</item>
+    </array>
+    <array name="list_hit">
+        <item>mole_four</item>
+        <item>mole_five</item>
+        <item>hole_empty</item>
+    </array>
+</resources>
